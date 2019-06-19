@@ -1,8 +1,6 @@
 <?php 
 	require 'class/Image.class.php';
-	require 'vendor/autoload.php';
 	$imgObj 	= new Imageclass();
-	// $imgObj->grabImage('https://images.unsplash.com/flagged/photo-1557771572-1b1425580e46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80', 'storage/'.uniqid().'.png');
 ?>
 
 <!DOCTYPE html>
